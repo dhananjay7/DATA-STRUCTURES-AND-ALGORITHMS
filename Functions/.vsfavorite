@@ -1,0 +1,11 @@
+{
+  "resources": [
+    {
+      "filePath": "palindrome.java",
+      "group": "Default"
+    }
+  ],
+  "groups": [
+    "Default"
+  ]
+}

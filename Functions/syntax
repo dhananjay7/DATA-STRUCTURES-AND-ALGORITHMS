@@ -1,0 +1,32 @@
+returnType name(){
+//body
+return statement ;
+}
+
+
+// function inside class is called method they both are same and also fucntion are supposed to be written only in class since it is well mannered and in c++ function can be written outside class as well..
+
+* syntax for parameters function
+
+returnType name(type param1 , type param2){
+    //body       --------INPUT--------
+    return statement ; 
+}
+
+
+//alag alag parameters me variable name same hoge lekin they can perform different fucntions 
+//in parameters we have to give input to the function 
+
+
+factorial can only be used for positive number and not for negative numbers
+n! = n * (n-1) * (n-2) * (n-3) * ........ 1 
+
+eg = 4! : 4 * 3 * 2 * 1
+
+
+* function overloading 
+multiple function with same name but different parameters
+
+- type of parameters may be changed such as (int , float , double , long etc...)
+- number of parameters may be different such as (int a , int b) or (int a , int b , int c )
+- function overloading depends only on parameters not on returnType

@@ -1,0 +1,10 @@
+what is array ? 
+ans = array is a list of elements of the same type placed in a contiguous memory location .
+
+operstions in array 
+create 
+input 
+output
+update
+
+1.) syntax = Datatype ArrayName[] = new DataType[size];
